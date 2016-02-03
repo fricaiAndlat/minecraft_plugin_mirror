@@ -1,0 +1,9 @@
+name: Mirror
+main: chloroplast.Mirror
+version: 1.0
+description: Let player creates mirror walls. All playced blocks are placed on the other side of the mirror too.
+author: Chloroplast
+commands:
+   mirror:
+     description: set up or destroys the mirror wall
+     usage: /mirror
